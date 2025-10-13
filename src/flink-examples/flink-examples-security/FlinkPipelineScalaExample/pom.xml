@@ -20,10 +20,11 @@
             <artifactId>flink-core</artifactId>
             <version>${flink.version}</version>
         </dependency>
+        <!-- Netty dependency for network communication -->
         <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-connector-netty_${scala.binary.version}</artifactId>
-            <version>${flink.connector.netty.version}</version>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.100.Final</version>
         </dependency>
         <dependency>
             <groupId>org.apache.flink</groupId>
@@ -83,9 +84,9 @@
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
-                                    <groupId>org.apache.flink</groupId>
-                                    <artifactId>flink-connector-netty_${scala.binary.version}</artifactId>
-                                    <version>${flink.connector.netty.version}</version>
+                                    <groupId>io.netty</groupId>
+                                    <artifactId>netty-all</artifactId>
+                                    <version>4.1.100.Final</version>
                                 </artifactItem>
                             </artifactItems>
                             <outputDirectory>${lib_path}</outputDirectory>
