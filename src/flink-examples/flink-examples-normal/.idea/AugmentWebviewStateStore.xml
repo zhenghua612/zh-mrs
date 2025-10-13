@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AugmentWebviewStateStore">
+    <option name="stateMap">
+      <map>
+        <entry key="CHAT_STATE" value="{&quot;currentConversationId&quot;:&quot;__NEW_AGENT__&quot;,&quot;agentExecutionMode&quot;:&quot;auto&quot;,&quot;isPanelCollapsed&quot;:true,&quot;displayedAnnouncements&quot;:[],&quot;conversations&quot;:{&quot;__NEW_AGENT__&quot;:{&quot;id&quot;:&quot;__NEW_AGENT__&quot;,&quot;createdAtIso&quot;:&quot;2025-10-13T02:16:05.242Z&quot;,&quot;lastInteractedAtIso&quot;:&quot;2025-10-13T02:16:05.242Z&quot;,&quot;chatHistory&quot;:[{&quot;request_id&quot;:&quot;d82d382e-6812-47ad-ab1d-c4a385218d57&quot;,&quot;uuid&quot;:&quot;8b97695d-ced6-48b4-a249-05a452437b72&quot;,&quot;chatItemType&quot;:&quot;agentic-checkpoint-delimiter&quot;,&quot;status&quot;:&quot;success&quot;,&quot;fromTimestamp&quot;:0,&quot;toTimestamp&quot;:1760321765243,&quot;seen_state&quot;:&quot;unseen&quot;}],&quot;feedbackStates&quot;:{},&quot;toolUseStates&quot;:{},&quot;draftExchange&quot;:{&quot;request_message&quot;:&quot;&quot;,&quot;rich_text_json_repr&quot;:{&quot;type&quot;:&quot;doc&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;paragraph&quot;}]},&quot;mentioned_items&quot;:[],&quot;status&quot;:&quot;draft&quot;},&quot;requestIds&quot;:[],&quot;isPinned&quot;:false,&quot;isShareable&quot;:false,&quot;extraData&quot;:{&quot;isAgentConversation&quot;:true,&quot;hasDirtyEdits&quot;:false},&quot;personaType&quot;:0,&quot;rootTaskUuid&quot;:&quot;c71088be-fc6c-4ce9-8a44-f05bbc0b2a7a&quot;}}}" />
+      </map>
+    </option>
+  </component>
+</project>

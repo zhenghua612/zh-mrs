@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FlinkConfigtableScalaExample" />
+        <module name="FlinkHudiJavaExample" />
+        <module name="FlinkStreamScalaExample" />
+        <module name="FlinkHBaseJavaExample" />
+        <module name="FlinkKafkaJavaExample" />
+        <module name="FlinkKafkaScalaExample" />
+        <module name="FlinkStreamSqlJoinScalaExample" />
+        <module name="FlinkCheckpointJavaExample" />
+        <module name="FlinkSqlJavaExample" />
+        <module name="FlinkStreamJavaExample" />
+        <module name="FlinkStreamSqlJoinExample" />
+        <module name="FlinkRESTAPIJavaExample" />
+        <module name="FlinkConfigtableJavaExample" />
+        <module name="FlinkCheckpointScalaExample" />
+        <module name="FlinkPipelineJavaExample" />
+        <module name="FlinkPipelineScalaExample" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

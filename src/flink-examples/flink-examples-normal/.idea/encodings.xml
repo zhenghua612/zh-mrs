@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/FlinkCheckpointJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkCheckpointJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkCheckpointScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkCheckpointScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkConfigtableJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkConfigtableJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkConfigtableScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkConfigtableScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkHBaseJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkHBaseJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkHudiJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkHudiJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkKafkaJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkKafkaJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkKafkaScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkKafkaScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkPipelineJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkPipelineJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkPipelineScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkPipelineScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkRESTAPIJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkRESTAPIJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkSqlJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkSqlJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamJavaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamJavaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamSqlJoinExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamSqlJoinExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamSqlJoinScalaExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlinkStreamSqlJoinScalaExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
