@@ -31,7 +31,7 @@
         </dependency>
         <dependency>
             <groupId>org.apache.flink</groupId>
-            <artifactId>flink-connector-hbase-base</artifactId>
+            <artifactId>flink-connector-hbase-2.2</artifactId>
             <version>${flink.connector.hbase.version}</version>
         </dependency>
         <dependency>

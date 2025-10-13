@@ -21,11 +21,9 @@
             <version>${flink.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.huawei.mrs</groupId>
-            <artifactId>jredisclient</artifactId>
-            <version>${jedisclient.version}</version>
-            <type>jar</type>
-            <scope>compile</scope>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>${jedis.version}</version>
         </dependency>
         <dependency>
             <groupId>net.sf.supercsv</groupId>
@@ -60,20 +58,9 @@
                                     <version>${flink.version}</version>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>com.huawei.mrs</groupId>
-                                    <artifactId>jredisclient</artifactId>
-                                    <version>${jedisclient.version}</version>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>com.huawei.mrs</groupId>
-                                    <artifactId>jredisclient</artifactId>
-                                    <version>${jedisclient.version}</version>
-                                    <destFileName>jredisclient-${jedisclient.version}.jar</destFileName>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>com.huawei.mrs</groupId>
-                                    <artifactId>wcc_krb5</artifactId>
-                                    <version>${wcc_krb5.version}</version>
+                                    <groupId>redis.clients</groupId>
+                                    <artifactId>jedis</artifactId>
+                                    <version>${jedis.version}</version>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>net.sf.supercsv</groupId>
