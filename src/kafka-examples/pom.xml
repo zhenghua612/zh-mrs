@@ -9,8 +9,8 @@
     <version>8.5.1-351.r22</version>
 
     <properties>
-        <zookeeper.version>3.8.1-h0.cbu.mrs.351.r22</zookeeper.version>
-        <kafka.version>3.6.1-h0.cbu.mrs.351.r22</kafka.version>
+        <zookeeper.version>3.8.1</zookeeper.version>
+        <kafka.version>3.6.1</kafka.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
-            <version>1.2.17-atlassian-13</version>
+            <version>1.2.17</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
