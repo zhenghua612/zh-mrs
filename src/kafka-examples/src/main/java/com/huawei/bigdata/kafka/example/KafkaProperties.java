@@ -1,12 +1,12 @@
 package com.huawei.bigdata.kafka.example;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public final class KafkaProperties
 {
@@ -38,7 +38,7 @@ public final class KafkaProperties
                 producerProps.load(new FileInputStream(filePath + "producer.properties"));
             }
         
-            File conFile = new File(filePath + "producer.properties");
+            File conFile = new File(filePath + "consumer.properties");
         
             if (conFile.exists())
             {
